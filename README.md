@@ -1,6 +1,6 @@
 # Steam-Game-Recommendation-Engine
 
-##Main aim of this project is to recommend similar games to the user based on his/her choice or preferences.
+## Main aim of this project is to recommend similar games to the user based on his/her choice or preferences.
 
 Problem Statement
 A Game user (Gamer) spends lots of his time and efforts to find the best suitable games according to his/her preference. Yet he/she may not find appropriate games to play over the internet. To address this issue we are developing a game recommender system.
