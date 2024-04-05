@@ -74,3 +74,28 @@ In this article, we are going to discuss a Natural Language Processing technique
 **CONCLUSION:**
 
 The Game Recommender System recommends similar games according to users preferences or choices thus enhancing their user experience and reduces their time and efforts of searching similar games over the internet. The interactive UI developed in steamlit makes it simpler for users to search games.
+
+
+**SCREENSHOTS**
+
+![Screenshot 2024-04-05 155322](https://github.com/not-harsh/Steam-Game-Recommendation-Engine/assets/141590635/e542aba1-952b-4aa3-bddd-cb4c801e15d5)
+
+
+![Screenshot 2024-04-05 155333](https://github.com/not-harsh/Steam-Game-Recommendation-Engine/assets/141590635/b12105b0-fbe7-4a1e-9c64-df88afed67cb)
+
+
+![Screenshot 2024-04-05 155347](https://github.com/not-harsh/Steam-Game-Recommendation-Engine/assets/141590635/f6bfaf92-6cc3-4348-86a0-29c03d3741cb)
+
+
+![Screenshot 2024-04-05 155417](https://github.com/not-harsh/Steam-Game-Recommendation-Engine/assets/141590635/10cecd7c-b00a-41a8-9c44-2608bc276689)
+
+
+![Screenshot 2024-04-05 155439](https://github.com/not-harsh/Steam-Game-Recommendation-Engine/assets/141590635/4149087b-54ba-4d64-80fc-742bee4205ef)
+
+
+![Screenshot 2024-04-05 155456](https://github.com/not-harsh/Steam-Game-Recommendation-Engine/assets/141590635/55f208a7-b5f4-42e3-9f19-9d02cf92da11)
+
+
+![Screenshot 2024-04-05 155508](https://github.com/not-harsh/Steam-Game-Recommendation-Engine/assets/141590635/088ef292-545c-4447-901d-b55db356a054)
+
+
